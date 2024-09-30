@@ -1,11 +1,10 @@
 ### Hello Folks 👋
 #### About Me
 
-My name is Apostolos Giannousas and I am a 20 year old undergraduate student in University of Thessaly.\
+My name is Apostolos Giannousas and I am a 23 year old undergraduate student in University of Thessaly.\
 I study Electrical and Computer Engineering and I am always passionate about learning new things.
 
 #### Work and Interests
-- :computer: I'm currently working as a Project Manager at [Hermes](https://www.hermesteam.eu/)
 - :mag: I'm interested in System Software, HPC, Embedded Systems and Computer Architecture
 
 #### Contact
