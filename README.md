@@ -1,7 +1,7 @@
 ### Hello 👋
 #### About Me
 
-My name is Apostolos Giannousas and I am a 25 year old Reasearcher - PhD Candidate at the Computer Systems Lab in University of Thessaly.
+My name is Apostolos Giannousas and I am an Electrical and Computer Engineering Graduate. Currently, I work as a Reasearcher - PhD Candidate at the Computer Systems Lab in University of Thessaly.
 
 #### Research Interests
 - :mag: I'm interested in System Software, Compilers, Computer Architecture, Embedded Systems, HPC, Edge Computing and Accelerators.
